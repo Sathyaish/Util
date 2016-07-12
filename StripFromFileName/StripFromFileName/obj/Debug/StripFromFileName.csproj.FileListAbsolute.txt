@@ -1,0 +1,6 @@
+c:\users\computer\documents\visual studio 2015\Projects\StripFromFileName\StripFromFileName\bin\Debug\StripFromFileName.exe.config
+c:\users\computer\documents\visual studio 2015\Projects\StripFromFileName\StripFromFileName\bin\Debug\StripFromFileName.exe
+c:\users\computer\documents\visual studio 2015\Projects\StripFromFileName\StripFromFileName\bin\Debug\StripFromFileName.pdb
+c:\users\computer\documents\visual studio 2015\Projects\StripFromFileName\StripFromFileName\obj\Debug\StripFromFileName.csprojResolveAssemblyReference.cache
+c:\users\computer\documents\visual studio 2015\Projects\StripFromFileName\StripFromFileName\obj\Debug\StripFromFileName.exe
+c:\users\computer\documents\visual studio 2015\Projects\StripFromFileName\StripFromFileName\obj\Debug\StripFromFileName.pdb
