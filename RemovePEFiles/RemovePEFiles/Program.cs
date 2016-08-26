@@ -150,7 +150,16 @@ namespace RemovePEFiles
 
                 result.NumberOfFilesDeleted += files?.Length ?? 0;
 
-                d.Delete(true);
+                try
+                {
+
+                    d.Delete(true);
+                }
+                catch(Exception ex)
+                {
+                    Console.WriteLine($"Error deleting directory {d.FullName}. {ex.Message}");
+                    throw;
+                }
             });
 
             return result;

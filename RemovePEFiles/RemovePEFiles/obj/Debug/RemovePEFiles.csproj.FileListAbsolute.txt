@@ -1,6 +1,0 @@
-C:\Sathyaish\Util\RemovePEFiles\RemovePEFiles\bin\Debug\RemovePEFiles.exe.config
-C:\Sathyaish\Util\RemovePEFiles\RemovePEFiles\bin\Debug\RemovePEFiles.exe
-C:\Sathyaish\Util\RemovePEFiles\RemovePEFiles\bin\Debug\RemovePEFiles.pdb
-C:\Sathyaish\Util\RemovePEFiles\RemovePEFiles\obj\Debug\RemovePEFiles.csprojResolveAssemblyReference.cache
-C:\Sathyaish\Util\RemovePEFiles\RemovePEFiles\obj\Debug\RemovePEFiles.exe
-C:\Sathyaish\Util\RemovePEFiles\RemovePEFiles\obj\Debug\RemovePEFiles.pdb
