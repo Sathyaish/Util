@@ -1,0 +1,6 @@
+C:\Sathyaish\temp\RenameFiles\RenameFiles\bin\Debug\RenameFiles.exe.config
+C:\Sathyaish\temp\RenameFiles\RenameFiles\bin\Debug\RenameFiles.exe
+C:\Sathyaish\temp\RenameFiles\RenameFiles\bin\Debug\RenameFiles.pdb
+C:\Sathyaish\temp\RenameFiles\RenameFiles\obj\Debug\RenameFiles.csprojResolveAssemblyReference.cache
+C:\Sathyaish\temp\RenameFiles\RenameFiles\obj\Debug\RenameFiles.exe
+C:\Sathyaish\temp\RenameFiles\RenameFiles\obj\Debug\RenameFiles.pdb
