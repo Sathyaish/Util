@@ -10,9 +10,9 @@ namespace RenameFiles
     {
         static void Main(string[] args)
         {
-            RemovePrefix(@"[Mm][Aa][Hh][Aa][Bb][Hh][Aa][Rr][Aa][Tt][Aa]?\s+[Ee][Pp][Ii]*[Ss][Oo]*[Dd]*[Ee]*\s*\-*\s*\-*", 
-                @"C:\Users\computer\Videos\4K Video Downloader\Mahabharat - With Good Sound", 
-                @"[Mm][Aa][Hh][Aa][Bb][Hh][Aa][Rr][Aa][Tt][Aa]?\s+[Ee][Pp][Ii]*[Ss][Oo]*[Dd]*[Ee]*\s*\-*\s*\-*.*\.[Mm][Pp]4");
+            RemovePrefix(@"^([0-9]){1,2}\s*",
+                @"C:\Users\computer\Videos\4K Video Downloader\Uttar Ramayan",
+                @"^([Uu][Tt]{2}[Aa][Rr]\s*[Rr][Aa][Mm][Aa][Yy][Aa][Nn]){1}\s+([Pp][Aa][Rr][Tt])*\s*.*\.[Mm][Pp]4");
         }
 
         static void RemovePrefix(string prefixToRemove, string parentFolder, string pattern, bool verbose = true)
@@ -34,7 +34,6 @@ namespace RenameFiles
                 foreach (var file in files)
                 {
                     var newFileName = Regex.Replace(file.Name, prefixToRemove, string.Empty);
-                    newFileName = newFileName.Replace(" with English Subtitles", string.Empty);
                     var newFullName = Path.Combine(file.Directory.FullName, newFileName);
 
                     if (verbose)
