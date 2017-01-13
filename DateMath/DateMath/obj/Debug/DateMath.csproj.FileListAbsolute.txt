@@ -1,6 +1,0 @@
-C:\Sathyaish\Practice\DotNet\Rx\DateMath\DateMath\bin\Debug\DateMath.exe.config
-C:\Sathyaish\Practice\DotNet\Rx\DateMath\DateMath\bin\Debug\DateMath.exe
-C:\Sathyaish\Practice\DotNet\Rx\DateMath\DateMath\bin\Debug\DateMath.pdb
-C:\Sathyaish\Practice\DotNet\Rx\DateMath\DateMath\obj\Debug\DateMath.csprojResolveAssemblyReference.cache
-C:\Sathyaish\Practice\DotNet\Rx\DateMath\DateMath\obj\Debug\DateMath.exe
-C:\Sathyaish\Practice\DotNet\Rx\DateMath\DateMath\obj\Debug\DateMath.pdb

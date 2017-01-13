@@ -1,6 +1,0 @@
-C:\Sathyaish\temp\ReflectionPackageStore\ReflectionPackageStore\bin\Debug\ReflectionPackageStore.exe.config
-C:\Sathyaish\temp\ReflectionPackageStore\ReflectionPackageStore\bin\Debug\ReflectionPackageStore.exe
-C:\Sathyaish\temp\ReflectionPackageStore\ReflectionPackageStore\bin\Debug\ReflectionPackageStore.pdb
-C:\Sathyaish\temp\ReflectionPackageStore\ReflectionPackageStore\obj\Debug\ReflectionPackageStore.csprojResolveAssemblyReference.cache
-C:\Sathyaish\temp\ReflectionPackageStore\ReflectionPackageStore\obj\Debug\ReflectionPackageStore.exe
-C:\Sathyaish\temp\ReflectionPackageStore\ReflectionPackageStore\obj\Debug\ReflectionPackageStore.pdb

@@ -126,8 +126,7 @@ namespace RemovePEFiles
 
             //            }
             //        }
-            //    }
-        //    }
+            //    }//    }
 
         //    return new Result { NumberOfDirectoriesDeleted = effectiveDirectoryCount, NumberOfFilesDeleted = effectiveFileCount };
         }
